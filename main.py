@@ -94,5 +94,5 @@ def main():
     print("Average SSIM value : ", round(mean(l2), 4))
 
 
-if(__name__ == "main"):
+if__name__ == "__main__":
     main()
